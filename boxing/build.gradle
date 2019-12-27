@@ -17,11 +17,9 @@
 
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
 
 
-group = "com.bilibili"
-version = "1.0.4"
+group = 'com.github.X32580'
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
